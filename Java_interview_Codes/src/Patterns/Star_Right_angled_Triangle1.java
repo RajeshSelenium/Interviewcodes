@@ -34,5 +34,5 @@ public class Star_Right_angled_Triangle1
 
 	}
 	}
-	//gdsgdfsgdfso
+	//gdsgdfsgdfsog
 }

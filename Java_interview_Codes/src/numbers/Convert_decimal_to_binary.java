@@ -28,7 +28,7 @@ public class Convert_decimal_to_binary
 	public static void main(String args[])
 	{
 		Convert_decimal_to_binary ob=new Convert_decimal_to_binary();
-		ob.find_bin(2);
+		ob.find_bin(100);
 	}
 }
 
